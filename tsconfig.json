@@ -70,10 +70,6 @@
     "forceConsistentCasingInFileNames": true,        /* Disallow inconsistently-cased references to the same file. */
     "plugins": []
   },
-  "files": [
-    "src/**/*.ts",
-    "src/**/*.tsx",
-    "src/**/*.d.ts"
-  ],
+  // "files": [],
   "include": ["src"]
 }
