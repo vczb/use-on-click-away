@@ -1,23 +1,28 @@
 {
   "name": "use-on-click-away",
   "version": "0.0.1",
-  "description": "I'ts a React custom hook that allows you to detect when a user clicks outside of a component.",
+  "description": "I'ts a React custom hook that catches clicks outside of the element it is applied to.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vczb/use-on-click-away"
   },
   "main": "lib/index.js",
   "types": "lib",
-   "scripts": {
+  "scripts": {
     "build": "tsc -p .",
     "lint": "eslint src --max-warnings=0",
     "typecheck": "tsc --project tsconfig.json --noEmit",
-    "prettier:format": "prettier --write \"src/**/*.{ts,tsx,js,jsx,json,md}\"",
-    "prettier:check": "prettier -c \"src/**/*.{ts,tsx,js,jsx,json,md}\"",
+    "prettier:format": "prettier --write .",
+    "prettier:check": "prettier -c .",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "hook",
+    "click",
+    "away"
+  ],
   "author": "vczb",
   "email": "viniciuszucatti@gmail.com",
   "license": "MIT",
@@ -43,7 +48,6 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "typescript": "^4.3.5"
-
   },
   "dependencies": {}
 }

@@ -1,0 +1,11 @@
+coverage/
+scripts/
+example/
+test/
+vscode/
+storybook-static
+.storybook
+rollup.config.*
+README.md
+lib
+.*
