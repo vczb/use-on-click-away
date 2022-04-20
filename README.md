@@ -64,7 +64,7 @@ export default MyComponent
 
 ## Contributing
 
-You can contribute by opening an or sending a pull request.
+You can contribute by opening an issue or sending a pull request.
 ## License
 
 This project is licensed under the [MIT](./LICENSE) License.

@@ -1,10 +1,10 @@
 {
   "name": "use-on-click-away",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "I'ts a React custom hook that catches clicks outside of the element it is applied to.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vczb/use-on-click-away"
+    "url": "git://github.com/vczb/use-on-click-away"
   },
   "main": "lib/index.js",
   "types": "lib",
