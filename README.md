@@ -1,6 +1,6 @@
 # useOnClickAway
 
-I'ts a React custom hook that catches clicks outside of the element it is applied to.
+It's a `6kb` React custom hook that catches clicks outside of the element it is applied to.
 
 ## Installation
 
@@ -15,6 +15,10 @@ To install it, run:
   //with yarn
   yarn add use-on-click-away
 ```
+
+## Example
+
+[`use-on-click-away-demo`](https://codesandbox.io/s/use-on-click-away-demo-lk4xkk?file=/src/App.tsx)
 
 ## Usage
 
@@ -39,30 +43,8 @@ export default MyComponent
 
 # Contributing
 
-## What is inside?
-
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-
-## Available commands
-
-- `build`: build the files in the `lib` directory
-- `prettier:check`: check formatting on all `src` directory
-- `prettier:format`: formats all `src` directory
-
-## Project structure
-
-```
-/lib
-/src
-├── index.ts
-/stories
-└── index.ts
-```
-
 You can contribute by opening an issue or sending a pull request.
-## License
+
+# License
 
 This project is licensed under the [MIT](./LICENSE) License.
