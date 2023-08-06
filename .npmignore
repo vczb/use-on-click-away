@@ -4,6 +4,7 @@ example/
 test/
 vscode/
 storybook-static
+src
 .storybook
 rollup.config.*
 .*
