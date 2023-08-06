@@ -8,3 +8,4 @@ src
 .storybook
 rollup.config.*
 .*
+tsconfig.json
