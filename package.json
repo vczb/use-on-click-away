@@ -13,9 +13,7 @@
     "lint": "eslint src --max-warnings=0",
     "typecheck": "tsc --project tsconfig.json --noEmit",
     "prettier:format": "prettier --write .",
-    "prettier:check": "prettier -c .",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "prettier:check": "prettier -c ."
   },
   "keywords": [
     "react",
@@ -31,10 +29,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "@storybook/addon-actions": "^6.3.6",
-    "@storybook/addon-essentials": "^6.3.6",
-    "@storybook/addon-links": "^6.3.6",
-    "@storybook/react": "^6.3.6",
     "@types/react": "^17.0.15",
     "@typescript-eslint/eslint-plugin": "^4.28.5",
     "@typescript-eslint/parser": "^4.28.5",

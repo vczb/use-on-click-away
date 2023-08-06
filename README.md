@@ -37,18 +37,18 @@ const MyComponent = () => {
 export default MyComponent
 ```
 
+# Contributing
+
 ## What is inside?
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
 ## Available commands
 
 - `build`: build the files in the `lib` directory
-- `storybook`: run the storybook at the address `localhost:6006`
 - `prettier:check`: check formatting on all `src` directory
 - `prettier:format`: formats all `src` directory
 
@@ -61,8 +61,6 @@ export default MyComponent
 /stories
 └── index.ts
 ```
-
-## Contributing
 
 You can contribute by opening an issue or sending a pull request.
 ## License
